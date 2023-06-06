@@ -1,4 +1,4 @@
-##Hi there 👋 I'm Sparsh gangil
+## Hi there 👋 I'm Sparsh gangil
 ###        A passionate Full Stack Developer, Competitive Programmer from India
 
 <!--
