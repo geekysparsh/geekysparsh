@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ... DATA STRUCTURE AND ALGORITHM
-- 👯 I’m looking to collaborate on New wed development project
+- 👯 I’m looking to collaborate on ### New wed development project
 - 💬 Ask me about ...
 - 📫 How to reach me gangilsparsh0169@gmail.com
