@@ -1,4 +1,4 @@
-###                  Hi there 👋 I'm Sparsh gangil
+##                  Hi there 👋 I'm Sparsh gangil
 
 <!--
 **sparsh0169/sparsh0169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
