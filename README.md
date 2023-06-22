@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
 <h1 align="center">Hi 👋, I'm Sparsh Gangil</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://www.google.com/search?q=animated+coding+gif+for+github+with+black+background&tbm=isch&ved=2ahUKEwj8p--X0db_AhW4nWMGHRL5BAMQ2-cCegQIABAA&oq=animated+coding+gif+for+github+with+black+background&gs_lcp=CgNpbWcQAzoECCMQJ1DVCFjDTGDmUmgAcAB4AIAB5gKIAYUdkgEIMC4yMS4xLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=wB2UZPzHI7i7juMPkvKTGA&bih=760&biw=1519&rlz=1C1CHBD_enIN1041IN1041&hl=en#imgrc=ZmOH4FBlhx83-M">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+gif+for+github+with+black+background&tbm=isch&ved=2ahUKEwj8p--X0db_AhW4nWMGHRL5BAMQ2">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekysparsh&label=Profile%20views&color=0e75b6&style=flat" alt="geekysparsh" /> </p>
