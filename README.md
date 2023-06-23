@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
+![MasterHead](https://www.canva.com/design/DAFhIti9mL4/d_2VBUxWhQ6IUjn7X4r7CQ/edit?analyticsCorrelationId=ef4ae534-e86d-486a-a189-7064e2cd581f)
 <h1 align="center">Hi 👋, I'm Sparsh Gangil</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/dbd02eb60eede5c8e12d03bb1531f7df43acf13a3d8a90bccbda7aa220799a1d/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30332f31332f34302f34352f3336305f465f3331333430343534315f6539595a33706874366f45456b4d5875687854626f71584132423253684e6e432e6a7067">
