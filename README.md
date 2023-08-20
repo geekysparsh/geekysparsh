@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/dbd02eb60eede5c8e12d03bb1531f7df43acf13a3d8a90bccbda7aa220799a1d/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30332f31332f34302f34352f3336305f465f3331333430343534315f6539595a33706874366f45456b4d5875687854626f71584132423253684e6e432e6a7067">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekysparsh&label=Profile%20views&color=0e75b6&style=flat" alt="geekysparsh" /> </p>
+<p align="left"> <img src="" alt="geekysparsh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sparshgangil" target="blank"><img src="https://img.shields.io/twitter/follow/sparshgangil?logo=twitter&style=for-the-badge" alt="sparshgangil" /></a> </p>
 
